@@ -1,5 +1,5 @@
 // string, number, boolean, array, undefined, null, any
-
+//instance of person with her specific data
 let firstName: string | null;
 firstName = 'Dan';
 
