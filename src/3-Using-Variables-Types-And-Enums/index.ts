@@ -1,5 +1,5 @@
 // string, number, boolean, array, undefined, null, any
-
+//comment function what to do
 let firstName: string | null;
 firstName = 'Dan';
 
