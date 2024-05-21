@@ -1,5 +1,7 @@
 // string, number, boolean, array, undefined, null, any
 //instance of person with her specific data
+//comment function what to do
+
 let firstName: string | null;
 firstName = 'Dan';
 
